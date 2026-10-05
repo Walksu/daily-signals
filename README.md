@@ -12,9 +12,15 @@
 
 ## 最新 · Latest
 
-还没有条目。下一次入库会把当天放在这里，并写进年份文件。
+## 2026-10-05
 
-No entries yet. The next filing will sit here, and in the year file.
+- [CMU AI Agents · 7a Safety 1: Sandboxing and Credential Management (10/06)](https://www.cmu-agents.com/)
+  - 中文：7a Safety 1: Sandboxing and Credential Management（10/06）还没挂 readings｜不要并进 daily-papers。
+  - English: 7a Safety 1: Sandboxing and Credential Management (10/06) still has no readings posted—not filed into daily-papers.
+
+- [Furong Huang's blog](https://furong-huang.com/blog/)
+  - 中文：Furong 博客没有更新，最新仍是 9/11｜不要并进论文条目 FlowBank。
+  - English: Furong's blog has no update; latest is still 9/11—not merged with the FlowBank paper entry.
 
 ## 关于 · About
 
