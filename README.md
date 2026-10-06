@@ -12,11 +12,12 @@
 
 ## 最新 · Latest
 
+
 ## 2026-10-05
 
-- [CMU AI Agents · 7a Safety 1: Sandboxing and Credential Management (10/06)](https://www.cmu-agents.com/)
-  - 中文：7a Safety 1: Sandboxing and Credential Management（10/06）还没挂 readings｜不要并进 daily-papers。
-  - English: 7a Safety 1: Sandboxing and Credential Management (10/06) still has no readings posted—not filed into daily-papers.
+- [CMU AI Agents · Safety 1: Agent Safety](https://www.cmu-agents.com/)
+  - 中文：10/05 时 Safety 1 还没挂讲义；课表标题已改为「Safety 1: Agent Safety」，L13 讲义 10/06 上线，PDF 归 daily-guides。
+  - English: On 10/05 Safety 1 had no readings up; the syllabus title is now "Safety 1: Agent Safety"; L13 slides went up 10/06 and belong in daily-guides.
 
 - [Furong Huang's blog](https://furong-huang.com/blog/)
   - 中文：Furong 博客没有更新，最新仍是 9/11｜不要并进论文条目 FlowBank。
