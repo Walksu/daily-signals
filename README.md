@@ -12,6 +12,20 @@
 
 ## 最新 · Latest
 
+## 2026-10-07
+
+- [Oxford Witt Lab (Christian Schroeder de Witt)](https://www.schroederdewitt.com/)
+  - 中文：Oxford Witt Lab（Christian Schroeder de Witt）：学习型策略 agent 系统的安全基础；本期 multi-CaMeL 证明单 agent 安全不能跨 agent 组合｜不要并进论文条目，也不要并进 CMU FOCAL
+  - English: Oxford Witt Lab (Christian Schroeder de Witt): safety foundations for learned-policy agent systems; this issue's multi-CaMeL shows single-agent safety does not compose across agents—not merged with paper entries, and not CMU FOCAL.
+
+- [Meta Anirudh Goyal](https://anirudh9119.github.io/)
+  - 中文：Meta Anirudh Goyal：本期 GitSwarm 加候补 MIRA，多智能体架构持续产出的学者信号｜不要并进论文条目，也不要并进训练线
+  - English: Meta's Anirudh Goyal: this issue's GitSwarm plus MIRA as alternate; a scholar signal of ongoing multi-agent architecture work—not merged with paper entries, and not the training line.
+
+- [CISPA Thorsten Eisenhofer](https://cispa.de/en/people/c01thei)
+  - 中文：CISPA Thorsten Eisenhofer：本期隐空间多 agent 通信安全，多智能体安全新信号｜不要并进论文条目，也不要并进 Covert Channels 线
+  - English: CISPA's Thorsten Eisenhofer: this issue's latent multi-agent communication security; a new multi-agent safety signal—not merged with paper entries, and not the Covert Channels line.
+
 
 ## 2026-10-05
 
