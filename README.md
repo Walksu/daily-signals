@@ -12,6 +12,25 @@
 
 ## 最新 · Latest
 
+## 2026-10-08
+
+- [Sahar Abdelnabi (ELLIS Tübingen / MPI-IS, COMPASS)](https://s-abdelnabi.github.io/)
+  - 中文：ELLIS Tübingen / MPI-IS 的 Sahar Abdelnabi（COMPASS 组）：本期 CORSA 是她组的，组里的 Haritz Puerto 也在装瓶评测上署名，是 skill 层安全的新实验室信号｜不要并进论文条目，也不要并进 CISPA Eisenhofer
+  - English: Sahar Abdelnabi (COMPASS group, ELLIS Tübingen / MPI-IS): this issue's CORSA comes from her group, and group member Haritz Puerto co-authors the bottled-capability eval; a new lab signal for skill-layer security—not merged with paper entries, and not CISPA Eisenhofer.
+
+- [Dimitris Papailiopoulos (Microsoft Research)](https://papail.io/)
+  - 中文：Microsoft Research 的 Dimitris Papailiopoulos：本期 Fork-and-Flush 提出 autoresearch 的「想法盆地」，是自进化长跑方向的新学者信号｜不要并进论文条目和训练线
+  - English: Microsoft Research's Dimitris Papailiopoulos: this issue's Fork-and-Flush introduces idea basins in autoresearch; a new scholar signal for long-running self-evolution—not merged with paper entries or the training line.
+
+- [Tongliang Liu (University of Sydney)](https://tongliang-liu.github.io/)
+  - 中文：悉尼大学的 Tongliang Liu：本期 SquidAgent（NeurIPS）给出何时该并行的判据，是多智能体架构的新学者信号｜不要并进论文条目，也不要并进港浸会的通信压缩线
+  - English: Tongliang Liu (University of Sydney): this issue's SquidAgent (NeurIPS) gives a criterion for when to parallelize; a new scholar signal in multi-agent architecture—not merged with paper entries, and not the HKBU communication-compression line.
+
+- [Stanford Kunle Olukotun group](https://arsenalfc.stanford.edu/kunle)
+  - 中文：Stanford Kunle Olukotun 组：10-07 的 Sentry 和本期的 SLA 连续两期做「状态归 harness」的架构，是多智能体架构的持续信号｜不要并进论文条目，也不要并进 Diyi Yang 组
+  - English: Stanford Kunle Olukotun's group: Sentry on 10-07 and SLA in this issue both put state in the harness; an ongoing multi-agent architecture signal—not merged with paper entries, and not the Diyi Yang group.
+
+
 ## 2026-10-07
 
 - [Oxford Witt Lab (Christian Schroeder de Witt)](https://www.schroederdewitt.com/)
@@ -26,16 +45,6 @@
   - 中文：CISPA Thorsten Eisenhofer：本期隐空间多 agent 通信安全，多智能体安全新信号｜不要并进论文条目，也不要并进 Covert Channels 线
   - English: CISPA's Thorsten Eisenhofer: this issue's latent multi-agent communication security; a new multi-agent safety signal—not merged with paper entries, and not the Covert Channels line.
 
-
-## 2026-10-05
-
-- [CMU AI Agents · Safety 1: Agent Safety](https://www.cmu-agents.com/)
-  - 中文：10/05 时 Safety 1 还没挂讲义；课表标题已改为「Safety 1: Agent Safety」，L13 讲义 10/06 上线，PDF 归 daily-guides。
-  - English: On 10/05 Safety 1 had no readings up; the syllabus title is now "Safety 1: Agent Safety"; L13 slides went up 10/06 and belong in daily-guides.
-
-- [Furong Huang's blog](https://furong-huang.com/blog/)
-  - 中文：Furong 博客没有更新，最新仍是 9/11｜不要并进论文条目 FlowBank。
-  - English: Furong's blog has no update; latest is still 9/11—not merged with the FlowBank paper entry.
 
 ## 关于 · About
 
